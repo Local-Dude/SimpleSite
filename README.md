@@ -1,4 +1,4 @@
-Try it here: minkeani-site-code.netlify.app
+Try it here: https://minkeani-site-code.netlify.app/
 
 Code layout "Euclid" using HTML, CSS and JS  
 -Using the "Swiper.js" plugin  
