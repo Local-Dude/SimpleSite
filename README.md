@@ -1,14 +1,14 @@
-Try it here: https://alex-milyaev.github.io/Landing---Evclid-/
+Try it here: minkeani-site-code.netlify.app
 
-Верстка макета-"Евклид" с использованием HTML,CSS и JS
-- использование плагина "Swiper.js"
-- применение "jquery accordion"
-- реализация табов на JS
-- реализация "burger-menu" на маленьких экранах
-- использование Flexbox
-- адаптив под мобильные устройства
-- придерживание концепции Pixel Perfect
-- нейминг по методологии БЭМ
+Code layout "Euclid" using HTML, CSS and JS
+-Using the "Swiper.js" plugin
+-using "jquery accordion"
+-JS implementation of tabs
+-Implementation of "burger-menu" on small screens
+use of Flexbox
+-Adaptive for mobile devices
+-Adherence to the Pixel Perfect concept
+-Naming according to BEM methodology
 
 ![1920](https://user-images.githubusercontent.com/78946975/136273851-171141b4-c2ee-4600-b3e8-93c5e109b577.png)
 # SimpleSite
